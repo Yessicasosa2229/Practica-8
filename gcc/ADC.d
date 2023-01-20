@@ -33,4 +33,4 @@ gcc/ADC.o: ADC.c lib/include.h \
  c:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\types.h \
  c:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\stdio.h \
  lib/PLL.h lib/GPIO.h lib/UART.h lib/TIMER.h lib/ADC.h lib/PWM.h \
- lib/SSI.h lib/SYSTICK.h
+ lib/SSI.h lib/SYSTICK.h lib/OLED.h

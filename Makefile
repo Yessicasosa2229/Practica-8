@@ -88,6 +88,7 @@ ${COMPILER}/main.axf: ${COMPILER}/PWM.o
 ${COMPILER}/main.axf: ${COMPILER}/TIMER.o
 ${COMPILER}/main.axf: ${COMPILER}/SSI.o
 ${COMPILER}/main.axf: ${COMPILER}/SYSTICK.o
+${COMPILER}/main.axf: ${COMPILER}/OLED.o
 ${COMPILER}/main.axf: main.ld
 SCATTERgcc_main=main.ld
 ENTRY_main=ResetISR

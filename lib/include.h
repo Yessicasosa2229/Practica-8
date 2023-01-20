@@ -17,7 +17,7 @@
 #include "PWM.h"
 #include "SSI.h"
 #include "SYSTICK.h"
-
+#include "OLED.h"
 
 #define _40MHZ 9
 #define _20MHZ 19
